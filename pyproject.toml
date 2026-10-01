@@ -1,0 +1,10 @@
+[project]
+name = "claude-practise"
+version = "0.1.0"
+description = "Hands-on practice scripts for the Claude API (tokens, cost, sampling, thinking, effort, few-shot)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=1.9.0",
+    "dotenv>=0.9.9",
+]
