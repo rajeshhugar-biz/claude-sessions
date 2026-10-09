@@ -1,0 +1,19 @@
+NIMBUS LEARNING PVT. LTD.
+Office 4, Riverside Business Park, Pune 411001
+
+TAX INVOICE
+Invoice No: NL-2026-0412        Invoice Date: 30-Sep-2026
+Payment due: 30-Oct-2026        Currency: INR
+
+Bill to: Acme Retail Pvt. Ltd., Hyderabad
+
+#  Description                                           Qty        Rate        Amount
+1  Claude Developer Foundations workshop (per seat)       12    8,500.00   1,02,000.00
+2  Course workbook, printed                               12      450.00      5,400.00
+3  Lab environment setup (one-time)                        1    7,500.00      7,500.00
+
+                                                                Subtotal   1,14,900.00
+                                                               GST @ 18%     20,682.00
+                                                             TOTAL (INR)   1,35,582.00
+
+Bank transfer within 30 days. Thank you for training with Nimbus Learning.

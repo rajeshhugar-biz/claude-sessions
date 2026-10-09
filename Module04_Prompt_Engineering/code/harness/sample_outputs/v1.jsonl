@@ -1,0 +1,20 @@
+{"id": 1, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Billing"}
+{"id": 2, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Technical"}
+{"id": 3, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Account"}
+{"id": 4, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Category: Course Content Error\n\nThe learner reports a mismatch between the quiz answer key and the lesson."}
+{"id": 5, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "This is positive feedback. No action is needed."}
+{"id": 6, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Category: Account Access / Password Reset\nPriority: Medium"}
+{"id": 7, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Feature request (new course suggestion)"}
+{"id": 8, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Billing issue - the customer is frustrated about being charged after cancelling (sarcastic tone)."}
+{"id": 9, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "This ticket contains two issues:\n1. Technical: app crash on Android 14\n2. Billing: refund request"}
+{"id": 10, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Content / Localisation - incorrect Hindi translation in the subtitles."}
+{"id": 11, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Account login issue (OTP not received). Language: Hinglish."}
+{"id": 12, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "other"}
+{"id": 13, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "The ticket only contains '???', so there isn't enough information to classify it. Could you share more details?"}
+{"id": 14, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Account deletion / data privacy request."}
+{"id": 15, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Technical - Performance"}
+{"id": 16, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Sales / Billing enquiry about bulk GST invoices."}
+{"id": 17, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Account - certificate name correction"}
+{"id": 18, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Content update request: outdated tax slabs in Lesson 7."}
+{"id": 19, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Complaint about instructor conduct."}
+{"id": 20, "version": "v1", "prompt_id": "classifier@v1+a74d0964", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "Technical (urgent): assignment upload failing with Error 500."}

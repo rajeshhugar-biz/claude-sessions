@@ -1,0 +1,20 @@
+{"id": 1, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "billing"}
+{"id": 2, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "technical"}
+{"id": 3, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "account"}
+{"id": 4, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "content"}
+{"id": 5, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "other"}
+{"id": 6, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "technical"}
+{"id": 7, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "content"}
+{"id": 8, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "billing"}
+{"id": 9, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "technical"}
+{"id": 10, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "content"}
+{"id": 11, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "account"}
+{"id": 12, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "other"}
+{"id": 13, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "I can't classify this ticket because it has no content."}
+{"id": 14, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "account"}
+{"id": 15, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "technical"}
+{"id": 16, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "billing"}
+{"id": 17, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "content"}
+{"id": 18, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "content"}
+{"id": 19, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "other"}
+{"id": 20, "version": "v2", "prompt_id": "classifier@v2+0c14bdc0", "model": "claude-sonnet-5-5", "stop_reason": "end_turn", "output": "technical"}

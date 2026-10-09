@@ -1,0 +1,21 @@
+Nimbus Learning - Refund Policy (fictional, for training use)
+Last updated: 1 August 2026
+
+1. Course purchases
+You can request a full refund within 14 days of purchase if you have watched
+less than 30% of the course. Requests made after 14 days, or after watching 30%
+or more of the course, are not eligible for a refund.
+
+2. Pro subscription
+Monthly Pro subscriptions can be cancelled at any time from Account > Plan.
+Cancellation stops the next payment. We do not refund the current month,
+except when a payment was taken twice by mistake, in which case the duplicate
+payment is refunded in full.
+
+3. How to ask for a refund
+Go to Account > Orders > Request refund, choose the order and give a reason.
+Refunds go back to the original payment method within 5 to 7 working days.
+
+4. Team plans
+Team plans of 10 seats or more are covered by the team contract, not by this
+policy. Contact your account manager.

@@ -1,0 +1,6 @@
+Nimbus Learning - Certificates (fictional, for training use)
+
+A certificate is issued when you complete every lesson and score at least 70%
+in the final quiz. The name on the certificate comes from your profile. To
+change it, edit Profile > Full name before downloading; certificates already
+issued are re-issued free of charge by the account team on request.

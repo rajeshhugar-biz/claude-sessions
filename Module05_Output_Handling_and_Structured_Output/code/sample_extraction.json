@@ -1,0 +1,21 @@
+{
+  "invoice_number": "NL-2026-0412",
+  "invoice_date": "2026-09-30",
+  "due_date": "2026-10-30",
+  "vendor_name": "Nimbus Learning Pvt. Ltd.",
+  "customer_name": "Acme Retail Pvt. Ltd.",
+  "currency": "INR",
+  "line_items": [
+    {"description": "Claude Developer Foundations workshop (per seat)",
+     "quantity": 12, "unit_price": 8500.0, "amount": 102000.0},
+    {"description": "Course workbook, printed",
+     "quantity": 12, "unit_price": 450.0, "amount": 5400.0},
+    {"description": "Lab environment setup (one-time)",
+     "quantity": 1, "unit_price": 7500.0, "amount": 75000.0}
+  ],
+  "subtotal": 114900.0,
+  "tax_rate_percent": 18.0,
+  "tax_amount": 20682.0,
+  "total": 135852.0,
+  "notes": "All amounts verified against the invoice."
+}

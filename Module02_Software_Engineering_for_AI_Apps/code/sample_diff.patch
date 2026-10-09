@@ -1,0 +1,32 @@
+diff --git a/nimbus/assistant.py b/nimbus/assistant.py
+new file mode 100644
+--- /dev/null
++++ b/nimbus/assistant.py
+@@ -0,0 +1,27 @@
++import time
++import anthropic
++
++client = anthropic.Anthropic(api_key="sk-ant-api03-REPLACE-ME")
++
++
++def answer(student_name, question):
++    system = f"You are the Nimbus Learning tutor. The student is {student_name}. " \
++             f"Their question: {question}"
++    while True:
++        try:
++            r = client.messages.create(
++                model="claude-sonnet-5-5",
++                max_tokens=64000,
++                system=system,
++                messages=[{"role": "user", "content": "Answer the question."}],
++            )
++            return r.content[0].text
++        except Exception:
++            time.sleep(1)
++
++
++def answer_all(questions):
++    results = []
++    for q in questions:
++        results.append(answer("student", q))
++    return results

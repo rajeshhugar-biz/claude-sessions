@@ -1,0 +1,345 @@
+{
+  "api_version": "2026-07-01",
+  "request_id": "req_7f3a9c2e1b",
+  "order": {
+    "id": "ORD-48213",
+    "status": "shipped",
+    "created_at": "2026-09-30T10:14:22+05:30",
+    "updated_at": "2026-10-02T18:40:05+05:30",
+    "customer": {
+      "id": "CUS-7781",
+      "name": "Ravi Kulkarni (fictional)",
+      "tier": "gold",
+      "pin_code": "411038",
+      "marketing_opt_in": false
+    },
+    "shipping": {
+      "carrier": "Acme Logistics",
+      "tracking_id": "AL99812345IN",
+      "eta": "2026-10-04",
+      "method": "express",
+      "events": [
+        {
+          "at": "2026-10-01T09:00:00+05:30",
+          "where": "Pune WH-2",
+          "code": "PICKED"
+        },
+        {
+          "at": "2026-10-01T011:00:00+05:30",
+          "where": "Pune WH-2",
+          "code": "PACKED"
+        },
+        {
+          "at": "2026-10-02T06:00:00+05:30",
+          "where": "Pune hub",
+          "code": "IN_TRANSIT"
+        },
+        {
+          "at": "2026-10-02T08:00:00+05:30",
+          "where": "Pune hub",
+          "code": "SORTED"
+        },
+        {
+          "at": "2026-10-02T09:00:00+05:30",
+          "where": "Kothrud",
+          "code": "OUT_FOR_DELIVERY"
+        }
+      ]
+    },
+    "payment": {
+      "method": "UPI",
+      "status": "captured",
+      "gateway_ref": "pay_Q81ZK2",
+      "amount": 194485
+    },
+    "items": [
+      {
+        "line_id": "L001",
+        "sku": "ACM-4100",
+        "name": "Front-load washing machine 8 kg",
+        "qty": 1,
+        "unit_price": 1999,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 359.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-17-3",
+          "picker": "emp_900"
+        },
+        "dimensions_cm": {
+          "l": 60,
+          "w": 55,
+          "h": 85
+        },
+        "weight_kg": 12.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500000",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L002",
+        "sku": "ACM-4107",
+        "name": "Split AC 1.5 ton",
+        "qty": 2,
+        "unit_price": 4349,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 782.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-18-4",
+          "picker": "emp_901"
+        },
+        "dimensions_cm": {
+          "l": 61,
+          "w": 55,
+          "h": 84
+        },
+        "weight_kg": 13.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500001",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L003",
+        "sku": "ACM-4114",
+        "name": "Mixer grinder 750 W",
+        "qty": 1,
+        "unit_price": 6699,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 1205.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-19-5",
+          "picker": "emp_902"
+        },
+        "dimensions_cm": {
+          "l": 62,
+          "w": 55,
+          "h": 83
+        },
+        "weight_kg": 14.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500002",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L004",
+        "sku": "ACM-4121",
+        "name": "Chimney 60 cm",
+        "qty": 2,
+        "unit_price": 9049,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 1628.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-20-6",
+          "picker": "emp_903"
+        },
+        "dimensions_cm": {
+          "l": 63,
+          "w": 55,
+          "h": 82
+        },
+        "weight_kg": 15.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500003",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L005",
+        "sku": "ACM-4128",
+        "name": "Microwave 28 L",
+        "qty": 1,
+        "unit_price": 11399,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 2051.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-21-3",
+          "picker": "emp_904"
+        },
+        "dimensions_cm": {
+          "l": 64,
+          "w": 55,
+          "h": 81
+        },
+        "weight_kg": 16.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500004",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L006",
+        "sku": "ACM-4135",
+        "name": "Water purifier RO",
+        "qty": 2,
+        "unit_price": 13749,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 2474.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-22-4",
+          "picker": "emp_905"
+        },
+        "dimensions_cm": {
+          "l": 65,
+          "w": 55,
+          "h": 80
+        },
+        "weight_kg": 17.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500005",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L007",
+        "sku": "ACM-4142",
+        "name": "Ceiling fan 1200 mm",
+        "qty": 1,
+        "unit_price": 16099,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 2897.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-23-5",
+          "picker": "emp_906"
+        },
+        "dimensions_cm": {
+          "l": 66,
+          "w": 55,
+          "h": 79
+        },
+        "weight_kg": 18.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500006",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L008",
+        "sku": "ACM-4149",
+        "name": "Air fryer 4 L",
+        "qty": 2,
+        "unit_price": 18449,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 3320.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-24-6",
+          "picker": "emp_907"
+        },
+        "dimensions_cm": {
+          "l": 67,
+          "w": 55,
+          "h": 78
+        },
+        "weight_kg": 19.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500007",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L009",
+        "sku": "ACM-4156",
+        "name": "Induction cooktop",
+        "qty": 1,
+        "unit_price": 20799,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 3743.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-25-3",
+          "picker": "emp_908"
+        },
+        "dimensions_cm": {
+          "l": 68,
+          "w": 55,
+          "h": 77
+        },
+        "weight_kg": 20.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500008",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      },
+      {
+        "line_id": "L010",
+        "sku": "ACM-4163",
+        "name": "Dishwasher 12 place",
+        "qty": 2,
+        "unit_price": 23149,
+        "currency": "INR",
+        "tax": {
+          "type": "GST",
+          "rate": 18,
+          "amount": 4166.82
+        },
+        "warehouse": {
+          "id": "WH-PUNE-2",
+          "bin": "B-26-4",
+          "picker": "emp_909"
+        },
+        "dimensions_cm": {
+          "l": 69,
+          "w": 55,
+          "h": 76
+        },
+        "weight_kg": 21.5,
+        "hsn_code": "84501100",
+        "barcode": "8901234500009",
+        "internal_notes": "Handle with care. Fragile panel. Do not stack more than two units. Check serial number on dispatch and scan twice."
+      }
+    ],
+    "audit": [
+      {
+        "at": "2026-09-30T10:14:22+05:30",
+        "by": "system",
+        "event": "created"
+      },
+      {
+        "at": "2026-10-01T09:00:00+05:30",
+        "by": "emp_900",
+        "event": "picked"
+      },
+      {
+        "at": "2026-10-01T11:00:00+05:30",
+        "by": "emp_905",
+        "event": "packed"
+      }
+    ]
+  }
+}

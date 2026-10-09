@@ -1,0 +1,3 @@
+# classifier v1 - first draft (weak on purpose)
+=== user ===
+Classify this support ticket: {{TICKET}}
